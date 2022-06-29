@@ -7,7 +7,7 @@ const keys = document.querySelectorAll(".bottom span");
 
 let operation = "";
 let answer;
-let decimalAdded = false;
+let decimalAdded = true;
 
 const operators = ["+", "-", "x", "÷"];
 
